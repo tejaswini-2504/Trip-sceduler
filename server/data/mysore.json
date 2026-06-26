@@ -1,0 +1,19 @@
+{
+  "destination": "Mysore",
+  "places": [
+    {"id": 1, "name": "Mysore Palace", "description": "Iconic royal palace with glittering interiors.", "image": "https://images.unsplash.com/photo-1562142858-4ae9363a1f65?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "2 hours", "distance": "3 km", "entryFee": 200, "rating": 4.9, "coordinates": {"lat": 12.3051, "lng": 76.6551}},
+    {"id": 2, "name": "Chamundi Hill", "description": "Scenic hill shrine offering panoramic city views.", "image": "https://images.unsplash.com/photo-1526481280690-0f6b0f14ee9f?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "2 hours", "distance": "13 km", "entryFee": 0, "rating": 4.7, "coordinates": {"lat": 12.3019, "lng": 76.7148}},
+    {"id": 3, "name": "Brindavan Gardens", "description": "Terraced gardens with musical fountains after sunset.", "image": "https://images.unsplash.com/photo-1523165788143-7f0bdb5cb502?auto=format&fit=crop&w=1200&q=80", "bestTime": "Evening", "timeRequired": "2 hours", "distance": "20 km", "entryFee": 150, "rating": 4.8, "coordinates": {"lat": 12.4243, "lng": 76.4075}},
+    {"id": 4, "name": "St. Philomena's Cathedral", "description": "Gothic cathedral with beautiful stained glass.", "image": "https://images.unsplash.com/photo-1520128870644-f78a6e8a89fe?auto=format&fit=crop&w=1200&q=80", "bestTime": "Afternoon", "timeRequired": "1 hour", "distance": "5 km", "entryFee": 0, "rating": 4.5, "coordinates": {"lat": 12.3141, "lng": 76.6496}},
+    {"id": 5, "name": "Mysore Zoo", "description": "Historic zoo with wide collection of animals and gardens.", "image": "https://images.unsplash.com/photo-1573164713347-df2b8e37c300?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "2 hours", "distance": "3.5 km", "entryFee": 80, "rating": 4.6, "coordinates": {"lat": 12.2921, "lng": 76.6654}},
+    {"id": 6, "name": "Lalitha Mahal Palace", "description": "Palace hotel with colonial architecture and gardens.", "image": "https://images.unsplash.com/photo-1549086643-3b0bd2a4b8a3?auto=format&fit=crop&w=1200&q=80", "bestTime": "Afternoon", "timeRequired": "1.5 hours", "distance": "8 km", "entryFee": 100, "rating": 4.4, "coordinates": {"lat": 12.3351, "lng": 76.6506}},
+    {"id": 7, "name": "Rail Museum", "description": "Miniature locomotives and heritage railway exhibits.", "image": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&w=1200&q=80", "bestTime": "Afternoon", "timeRequired": "1 hour", "distance": "2 km", "entryFee": 30, "rating": 4.3, "coordinates": {"lat": 12.3101, "lng": 76.6402}},
+    {"id": 8, "name": "Devaraja Market", "description": "Lively market for flowers, spices and handmade souvenirs.", "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "1 hour", "distance": "4 km", "entryFee": 0, "rating": 4.5, "coordinates": {"lat": 12.3076, "lng": 76.6544}}
+  ],
+  "restaurants": [
+    {"name": "Mylari Hotel", "famousFor": "Masala Dosa", "costForTwo": 300, "rating": 4.5},
+    {"name": "Rao's Cafe", "famousFor": "Filter Coffee", "costForTwo": 400, "rating": 4.4},
+    {"name": "Dosa Point", "famousFor": "Paper Dosa", "costForTwo": 250, "rating": 4.3},
+    {"name": "Green Hotel", "famousFor": "Thali Meals", "costForTwo": 450, "rating": 4.2}
+  ]
+}

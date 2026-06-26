@@ -1,0 +1,19 @@
+{
+  "destination": "Chikmagalur",
+  "places": [
+    {"id": 1, "name": "Mullayanagiri", "description": "Tallest peak in Karnataka with panoramic sunrise views.", "image": "https://images.unsplash.com/photo-1518408440-517341c05bda?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "3 hours", "distance": "16 km", "entryFee": 0, "rating": 4.8, "coordinates": {"lat": 13.2167, "lng": 75.6547}},
+    {"id": 2, "name": "Baba Budangiri", "description": "Hill range with shrine and coffee estates.", "image": "https://images.unsplash.com/photo-1526481280690-0f6b0f14ee9f?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "2 hours", "distance": "30 km", "entryFee": 0, "rating": 4.6, "coordinates": {"lat": 13.1799, "lng": 75.7861}},
+    {"id": 3, "name": "Hebbe Falls", "description": "Waterfall nestled inside dense forests and estates.", "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80", "bestTime": "Afternoon", "timeRequired": "2 hours", "distance": "35 km", "entryFee": 50, "rating": 4.7, "coordinates": {"lat": 13.2335, "lng": 75.8194}},
+    {"id": 4, "name": "Coffee Plantation Tour", "description": "Guided walk through aromatic coffee farms.", "image": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "2 hours", "distance": "5 km", "entryFee": 120, "rating": 4.6, "coordinates": {"lat": 13.3060, "lng": 75.7628}},
+    {"id": 5, "name": "Kudremukh National Park", "description": "Hiking trails and scenic landscapes in protected woods.", "image": "https://images.unsplash.com/photo-1529516547167-2f84e128e58a?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "4 hours", "distance": "95 km", "entryFee": 100, "rating": 4.5, "coordinates": {"lat": 13.1594, "lng": 75.1321}},
+    {"id": 6, "name": "Hirekolale Lake", "description": "Quiet lake with view of coffee fields and hills.", "image": "https://images.unsplash.com/photo-1519817650390-64a93db511aa?auto=format&fit=crop&w=1200&q=80", "bestTime": "Evening", "timeRequired": "1 hour", "distance": "12 km", "entryFee": 0, "rating": 4.4, "coordinates": {"lat": 13.2651, "lng": 75.7737}},
+    {"id": 7, "name": "Z Point", "description": "Trek destination overlooking lush valleys.", "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "3 hours", "distance": "20 km", "entryFee": 0, "rating": 4.5, "coordinates": {"lat": 13.1902, "lng": 75.7599}},
+    {"id": 8, "name": "Kemmangundi", "description": "Hill station known for gardens and quiet retreats.", "image": "https://images.unsplash.com/photo-1483683804023-6ccdb62f86ef?auto=format&fit=crop&w=1200&q=80", "bestTime": "Afternoon", "timeRequired": "2 hours", "distance": "60 km", "entryFee": 30, "rating": 4.4, "coordinates": {"lat": 13.4255, "lng": 75.1297}}
+  ],
+  "restaurants": [
+    {"name": "Town Canteen", "famousFor": "Koli Saaru", "costForTwo": 450, "rating": 4.4},
+    {"name": "Glen's Baker's Inn", "famousFor": "Bakery and Coffee", "costForTwo": 350, "rating": 4.3},
+    {"name": "Truffles", "famousFor": "Continental Dishes", "costForTwo": 700, "rating": 4.5},
+    {"name": "Roadhouse Cafe", "famousFor": "Lake View Dining", "costForTwo": 650, "rating": 4.4}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "destination": "Bangalore",
+  "places": [
+    {"id": 1, "name": "Lalbagh Botanical Garden", "description": "Historic botanical garden with rare tree species.", "image": "https://images.unsplash.com/photo-1523417112476-5bf2d19d2d05?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "2 hours", "distance": "5 km", "entryFee": 50, "rating": 4.7, "coordinates": {"lat": 12.9507, "lng": 77.5848}},
+    {"id": 2, "name": "Bangalore Palace", "description": "Majestic palace with Tudor-style architecture.", "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80", "bestTime": "Afternoon", "timeRequired": "2 hours", "distance": "8 km", "entryFee": 230, "rating": 4.6, "coordinates": {"lat": 12.9987, "lng": 77.5928}},
+    {"id": 3, "name": "Cubbon Park", "description": "Green oasis in the city center with walking trails.", "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "1.5 hours", "distance": "4 km", "entryFee": 0, "rating": 4.5, "coordinates": {"lat": 12.9763, "lng": 77.5920}},
+    {"id": 4, "name": "Vidhana Soudha", "description": "Iconic government building lit up at night.", "image": "https://images.unsplash.com/photo-1483721310020-03333e577078?auto=format&fit=crop&w=1200&q=80", "bestTime": "Evening", "timeRequired": "30 minutes", "distance": "4.5 km", "entryFee": 0, "rating": 4.6, "coordinates": {"lat": 12.9799, "lng": 77.5910}},
+    {"id": 5, "name": "Tipu Sultan's Summer Palace", "description": "Wooden palace with historic murals and artifacts.", "image": "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?auto=format&fit=crop&w=1200&q=80", "bestTime": "Afternoon", "timeRequired": "1 hour", "distance": "5 km", "entryFee": 30, "rating": 4.4, "coordinates": {"lat": 12.9755, "lng": 77.5737}},
+    {"id": 6, "name": "Commercial Street", "description": "Vibrant shopping street for souvenirs and fashion.", "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=1200&q=80", "bestTime": "Afternoon", "timeRequired": "2 hours", "distance": "3 km", "entryFee": 0, "rating": 4.3, "coordinates": {"lat": 12.9757, "lng": 77.6077}},
+    {"id": 7, "name": "Ulsoor Lake", "description": "Calm lake with boating and lakeside cafés.", "image": "https://images.unsplash.com/photo-1526470498-90ced0f9b0dd?auto=format&fit=crop&w=1200&q=80", "bestTime": "Evening", "timeRequired": "1.5 hours", "distance": "4 km", "entryFee": 0, "rating": 4.4, "coordinates": {"lat": 12.9730, "lng": 77.6173}},
+    {"id": 8, "name": "National Gallery of Modern Art", "description": "Contemporary art museum in a colonial mansion.", "image": "https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1?auto=format&fit=crop&w=1200&q=80", "bestTime": "Afternoon", "timeRequired": "1.5 hours", "distance": "6 km", "entryFee": 20, "rating": 4.3, "coordinates": {"lat": 12.9848, "lng": 77.5910}}
+  ],
+  "restaurants": [
+    {"name": "Mavalli Tiffin Room", "famousFor": "South Indian Thali", "costForTwo": 500, "rating": 4.5},
+    {"name": "Vidyarthi Bhavan", "famousFor": "Masala Dosa", "costForTwo": 350, "rating": 4.4},
+    {"name": "Toit", "famousFor": "Craft Beer", "costForTwo": 1200, "rating": 4.6},
+    {"name": "Karavalli", "famousFor": "Coastal Cuisine", "costForTwo": 1500, "rating": 4.7}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "destination": "Coorg",
+  "places": [
+    {"id": 1, "name": "Abbey Falls", "description": "Lush waterfall set amid coffee estates.", "image": "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "1.5 hours", "distance": "7 km", "entryFee": 50, "rating": 4.7, "coordinates": {"lat": 12.4233, "lng": 75.6794}},
+    {"id": 2, "name": "Raja's Seat", "description": "Sunset viewpoint with manicured gardens.", "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80", "bestTime": "Evening", "timeRequired": "1 hour", "distance": "1 km", "entryFee": 20, "rating": 4.6, "coordinates": {"lat": 12.4140, "lng": 75.6951}},
+    {"id": 3, "name": "Talakaveri", "description": "Sacred river source surrounded by hills.", "image": "https://images.unsplash.com/photo-1512813195386-6cf811ad3542?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "2 hours", "distance": "48 km", "entryFee": 0, "rating": 4.5, "coordinates": {"lat": 12.4616, "lng": 75.5955}},
+    {"id": 4, "name": "Dubare Elephant Camp", "description": "Interact with elephants and river rafting options.", "image": "https://images.unsplash.com/photo-1522748971992-7141e99e3191?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "3 hours", "distance": "29 km", "entryFee": 250, "rating": 4.8, "coordinates": {"lat": 12.4222, "lng": 75.8962}},
+    {"id": 5, "name": "Coffee Plantation Trail", "description": "Scenic walking tours through aromatic coffee fields.", "image": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=1200&q=80", "bestTime": "Afternoon", "timeRequired": "2 hours", "distance": "4 km", "entryFee": 100, "rating": 4.6, "coordinates": {"lat": 12.4445, "lng": 75.7107}},
+    {"id": 6, "name": "Nisargadhama", "description": "Island park with bamboo groves and elephant rides.", "image": "https://images.unsplash.com/photo-1523206489230-c012b5d0e7d7?auto=format&fit=crop&w=1200&q=80", "bestTime": "Afternoon", "timeRequired": "2 hours", "distance": "33 km", "entryFee": 80, "rating": 4.4, "coordinates": {"lat": 12.4501, "lng": 75.8937}},
+    {"id": 7, "name": "Madikeri Fort", "description": "Heritage fort with museum and panoramic view.", "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80", "bestTime": "Afternoon", "timeRequired": "1 hour", "distance": "1.5 km", "entryFee": 30, "rating": 4.5, "coordinates": {"lat": 12.4224, "lng": 75.7382}},
+    {"id": 8, "name": "Iruppu Falls", "description": "Waterfall tucked in dense forest near a pilgrimage site.", "image": "https://images.unsplash.com/photo-1492648272180-61e45a8d96a4?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "2 hours", "distance": "80 km", "entryFee": 20, "rating": 4.4, "coordinates": {"lat": 12.1164, "lng": 75.6573}}
+  ],
+  "restaurants": [
+    {"name": "Coorg Cuisine", "famousFor": "Pandi Curry", "costForTwo": 700, "rating": 4.6},
+    {"name": "Raintree", "famousFor": "Kodava Thali", "costForTwo": 650, "rating": 4.5},
+    {"name": "The Falls", "famousFor": "South Indian Breakfast", "costForTwo": 500, "rating": 4.3},
+    {"name": "Taj Madikeri", "famousFor": "Continental Spread", "costForTwo": 1200, "rating": 4.7}
+  ]
+}

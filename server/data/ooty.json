@@ -1,0 +1,19 @@
+{
+  "destination": "Ooty",
+  "places": [
+    {"id": 1, "name": "Ooty Botanical Gardens", "description": "Expansive botanical gardens with rare flowers.", "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "2 hours", "distance": "1.5 km", "entryFee": 200, "rating": 4.8, "coordinates": {"lat": 11.4108, "lng": 76.6950}},
+    {"id": 2, "name": "Ooty Lake", "description": "Pleasant lake for boating and lakeside walks.", "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80", "bestTime": "Afternoon", "timeRequired": "1.5 hours", "distance": "2.5 km", "entryFee": 0, "rating": 4.7, "coordinates": {"lat": 11.4143, "lng": 76.6938}},
+    {"id": 3, "name": "Doddabetta Peak", "description": "Highest peak in the Nilgiris with sweeping views.", "image": "https://images.unsplash.com/photo-1510034390105-6f8e16ee1f7f?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "2 hours", "distance": "9 km", "entryFee": 30, "rating": 4.6, "coordinates": {"lat": 11.4045, "lng": 76.7358}},
+    {"id": 4, "name": "Rose Garden", "description": "World-famous rose garden with thousands of flowers.", "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80", "bestTime": "Afternoon", "timeRequired": "1 hour", "distance": "1 km", "entryFee": 50, "rating": 4.5, "coordinates": {"lat": 11.4121, "lng": 76.7043}},
+    {"id": 5, "name": "Nilgiri Mountain Railway", "description": "Heritage toy train ride through mountain scenery.", "image": "https://images.unsplash.com/photo-1544145945-f904fb5c570e?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "3 hours", "distance": "2 km", "entryFee": 150, "rating": 4.7, "coordinates": {"lat": 11.4110, "lng": 76.6886}},
+    {"id": 6, "name": "St. Stephen's Church", "description": "Historic stone church with stained glass windows.", "image": "https://images.unsplash.com/photo-1524604866820-6f6dc5d8bb17?auto=format&fit=crop&w=1200&q=80", "bestTime": "Afternoon", "timeRequired": "45 minutes", "distance": "1 km", "entryFee": 0, "rating": 4.3, "coordinates": {"lat": 11.4116, "lng": 76.6931}},
+    {"id": 7, "name": "Emerald Lake", "description": "Quiet lake set amid green hills and pine forests.", "image": "https://images.unsplash.com/photo-1519821172141-bd1e10a8d2f2?auto=format&fit=crop&w=1200&q=80", "bestTime": "Evening", "timeRequired": "2 hours", "distance": "24 km", "entryFee": 20, "rating": 4.4, "coordinates": {"lat": 11.5481, "lng": 76.7805}},
+    {"id": 8, "name": "Catherine Falls", "description": "Two-tier waterfall in a lush valley retreat.", "image": "https://images.unsplash.com/photo-1529516547167-2f84e128e58a?auto=format&fit=crop&w=1200&q=80", "bestTime": "Morning", "timeRequired": "2 hours", "distance": "20 km", "entryFee": 50, "rating": 4.5, "coordinates": {"lat": 11.4219, "lng": 76.7317}}
+  ],
+  "restaurants": [
+    {"name": "Shinkows", "famousFor": "Chinese and Continental", "costForTwo": 900, "rating": 4.5},
+    {"name": "Hotel Sri Amar", "famousFor": "South Indian Meals", "costForTwo": 450, "rating": 4.4},
+    {"name": "Nahar's Sidewalk Cafe", "famousFor": "Bakery and Coffee", "costForTwo": 650, "rating": 4.3},
+    {"name": "Aqua", "famousFor": "Multi-cuisine Dinner", "costForTwo": 1000, "rating": 4.6}
+  ]
+}

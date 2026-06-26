@@ -1,0 +1,18 @@
+[
+  {
+    "id": "248c211a-59c2-450a-9c3d-bc73c6d8c84c",
+    "name": "admin",
+    "email": "admin@gmail.com",
+    "password": "$2a$10$JmpL4DzAWQBabLEUWpDukuzCr5Xaz60CGNsBWEfJkPVZWrcXK1/wK",
+    "savedTrips": [],
+    "createdAt": "2026-05-13T10:09:38.810Z"
+  },
+  {
+    "id": "588a0253-dd06-4e32-bdee-537fae273fd7",
+    "name": "Admin",
+    "email": "admin25@gmail.com",
+    "password": "$2a$10$zqFJyUiHYg2ngssfKcc/zOHX5JgSaVWj31iMipAR54xgbqgQmvPuW",
+    "savedTrips": [],
+    "createdAt": "2026-05-13T10:15:28.073Z"
+  }
+]
